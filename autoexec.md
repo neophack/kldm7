@@ -1,3 +1,4 @@
+```
 supported built-in commands:
         help            echo            dmesg           sleep
         readb           readl           readw           writeb
@@ -8,3 +9,4 @@ supported built-in commands:
         true            mkdir           pwd             chmod
         cat             rm              cleandir        mv
         savebin         cp              t
+ ```
